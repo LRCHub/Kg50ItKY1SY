@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "なんでもないよ、",
+  "base_artist": "マカロニえんぴつ",
+  "createdAt": "2025-12-12T11:50:32.822089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なんでもないよ、",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_なんでもないよ、_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なんでもないよ、",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_なんでもないよ、_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "なんでもないよ、 - Nanndemonaiyo,",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/03_なんでもないよ、_-_Nanndemonaiyo,_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "なんでもないよ、",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/04_なんでもないよ、_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "なんでもないよ、 - Nandemo Naiyo",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/05_なんでもないよ、_-_Nandemo_Naiyo_Uru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "なんでもないよ、",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/06_なんでもないよ、_Uru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "なんでもないよ、",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/07_なんでもないよ、_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "なんでもないよ、 - Nanndemonaiyo,",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/08_なんでもないよ、_-_Nanndemonaiyo,_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "なんでもないよ、",
+      "artist": "マカロニえんひつ",
+      "has_synced": true,
+      "path": "select/09_なんでもないよ、_マカロニえんひつ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんでもないよ、",
+      "artist": "マカロニえんぴつ",
+      "has_synced": false,
+      "path": "select/pl_01_なんでもないよ、_マカロニえんぴつ.txt"
+    }
+  ]
+}
